@@ -1,4 +1,6 @@
 # domainfinder
+# note: it depends completely on third party api, if they change it. this wont work.
+
 Easily find all the available dictionary names.
 This Python script is depended on website domainnamesoup's API and will work as long as they change nothing
 
